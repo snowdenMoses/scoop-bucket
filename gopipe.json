@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.1.0/gopipe_0.1.0_windows_amd64.zip",
+            "bin": [
+                "gopipe.exe"
+            ],
+            "hash": "0195aa4433846d0dfccbe7c5370059a836735bcf3acf561abfb867adfdec135c"
+        },
+        "arm64": {
+            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.1.0/gopipe_0.1.0_windows_arm64.zip",
+            "bin": [
+                "gopipe.exe"
+            ],
+            "hash": "9487fc23b3a89ade0355ee9a1f5851ce46749fb39cf885b3a8a3da1c304fa0d2"
+        }
+    },
+    "homepage": "https://github.com/snowdenMoses/gopipe-releases",
+    "description": "Run CI/CD pipelines from a YAML file, in your terminal"
+}
