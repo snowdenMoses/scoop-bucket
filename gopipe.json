@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.4.0/gopipe_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.5.0/gopipe_0.5.0_windows_amd64.zip",
             "bin": [
                 "gopipe.exe"
             ],
-            "hash": "90459b040ea598b2fee564c89bdec2e5739de3f5cc6bfee44fa57b1a09031ed7"
+            "hash": "60a93e9f801547dd2ab49385ff9ab45d5d9658369159d3bc91cfeb994359b422"
         },
         "arm64": {
-            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.4.0/gopipe_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/snowdenMoses/gopipe-releases/releases/download/v0.5.0/gopipe_0.5.0_windows_arm64.zip",
             "bin": [
                 "gopipe.exe"
             ],
-            "hash": "8448b631af79170567afa34c9132af71f579149983bc640862becdbbbaf5d631"
+            "hash": "d35baaacd44e3c602afe7d1a946109ed3a2812abff59ca788b551778cf6d4374"
         }
     },
     "homepage": "https://github.com/snowdenMoses/gopipe-releases",
