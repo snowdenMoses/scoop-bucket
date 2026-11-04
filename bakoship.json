@@ -1,0 +1,21 @@
+{
+    "version": "0.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/snowdenMoses/bakoship-releases/releases/download/v0.6.0/bakoship_0.6.0_windows_amd64.zip",
+            "bin": [
+                "bakoship.exe"
+            ],
+            "hash": "b723b300e802842a924ae27f5e143f8a50460f3be26f049099067933929ced05"
+        },
+        "arm64": {
+            "url": "https://github.com/snowdenMoses/bakoship-releases/releases/download/v0.6.0/bakoship_0.6.0_windows_arm64.zip",
+            "bin": [
+                "bakoship.exe"
+            ],
+            "hash": "2852cd13137a23d5a57fd1e394b496442ceaa7f4ea5a0b22c963e6c186370dfd"
+        }
+    },
+    "homepage": "https://github.com/snowdenMoses/bakoship-releases",
+    "description": "Run CI/CD pipelines from a YAML file, in your terminal"
+}
